@@ -10,4 +10,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmuhendis&show_icons=true&locale=en&layout=compact" alt="bgmuhendis" />
 
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bgmuhendis&show_icons=true&locale=en" alt="bgmuhendis" />
+&nbsp;<img align="right-top" src="https://github-readme-stats.vercel.app/api?username=bgmuhendis&show_icons=true&locale=en" alt="bgmuhendis" />
