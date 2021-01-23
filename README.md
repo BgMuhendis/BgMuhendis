@@ -6,7 +6,7 @@
 <p>
  <img height="182" src="https://github-readme-stats.vercel.app/api?username=bgmuhendis&show_icons=true&locale=en" alt="bgmuhendis" /> <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmuhendis&show_icons=true&locale=en&layout=compact" alt="bgmuhendis" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammet-hadi-kamat-072060155" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammethadikamat" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammedhhadikamat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muhammedhhadikamat" height="30" width="40" /></a>
