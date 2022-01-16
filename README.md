@@ -6,7 +6,7 @@
 <p> <h3 align="Left">GitHub Analytics</h3></p>
 <br>
 <p>
- <img height="182" src="https://github-readme-stats.vercel.app/api?username=bgmuhendis&show_icons=true&locale=en" alt="bgmuhendis" /> <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmuhendis&show_icons=true&locale=en&layout=compact" alt="bgmuhendis" /> </p>
+ <!-- <img height="182" src="https://github-readme-stats.vercel.app/api?username=bgmuhendis&show_icons=true&locale=en" alt="bgmuhendis" /> <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgmuhendis&show_icons=true&locale=en&layout=compact" alt="bgmuhendis" /> </p> -->
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
