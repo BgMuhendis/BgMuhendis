@@ -3,10 +3,12 @@
 ###
 
 <h3 align="center">👩‍💻  About Me</h3>
+---
 
 ###
 
 <p align="center">Mid. System Engineer @Halkbank</p>
+---
 
 ###
 
@@ -22,6 +24,7 @@
 ###
 
 <h3 align="center">🛠 Tech Stack</h3>
+---
 
 ###
 
@@ -40,6 +43,7 @@
 ###
 
 <h3 align="center">Stats</h3>
+---
 
 ###
 
