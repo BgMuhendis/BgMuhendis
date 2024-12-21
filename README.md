@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">System Engineer @Halkbank</p>
+<p align="center">System Administrator @Halkbank</p>
 
 ###
 
